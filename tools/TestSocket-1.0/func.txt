@@ -1,0 +1,1 @@
+__declspec(dllimport) BOOL TcpSendString(LPCSTR ip_addr, UINT port, LPCSTR string);
