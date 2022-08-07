@@ -11,6 +11,4 @@ How exciting, yet challenging!
 
 ### Record
 
-**2022-08-07:** Finished the learning of the primary stage of python
-
-​	
+**2022-08-07:** Finished the learning of the primary stage of python	[blog_click_here](https://liuhaihuaaacc.gitee.io/2022/07/06/wang-an-ji-zhu/)
