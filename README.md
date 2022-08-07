@@ -9,4 +9,8 @@ My undergraduate major is Computer Science and Technology.On April 9, 2022, I wa
 
 How exciting, yet challenging!
 
+### Record
+
+**2022-08-07:** Finished the learning of the primary stage of python
+
 ​	
